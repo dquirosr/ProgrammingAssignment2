@@ -42,3 +42,9 @@ cacheSolve <- function(x, ...) {
     
     m
 }
+
+
+
+mat_eje <- matrix(1:12)
+    
+makeCacheMatrix(m = mat_eje)
